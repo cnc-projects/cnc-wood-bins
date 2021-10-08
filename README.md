@@ -1,5 +1,7 @@
 #### cnc-wood-bins
 
+![](fiinished_image_wooden_bin.jpg)
+
 Wooden Bins CNC  - 2 bins per 8ft x 4ft sheet
 
 wooden bins 
