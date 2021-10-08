@@ -1,4 +1,4 @@
-#### cnc-wood-bins
+#### CNC-Wood-Bins
 
 ![](fiinished_image_wooden_bin.jpg)
 
@@ -6,9 +6,10 @@ Wooden Bins CNC  - 2 bins per 8ft x 4ft sheet
 
 wooden bins 
 
-A wooden bin designed to be cut from 6mm birch ply.<br> 
+Two wooden bins designed to be cut from 6mm Birch ply.<br> 
 This design uses CNC finger joints and needs to be <br>
-assembled with wood glue. Fits two bins to a standard 8 x 4 sheet.
+assembled with wood glue. <br>
+Fits two bins to a standard 8ft x 4ft (6mm) sheet.
 
 RHINO 3DM FILE
 ##### DOWNLOAD
